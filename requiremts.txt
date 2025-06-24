@@ -1,0 +1,12 @@
+langchain_core
+langchain_community
+bs4
+ipykernel
+chromadb
+faiss-cpu
+sentence-transformers
+langchain_openai
+wikipedia
+duckduckgo-search
+arxiv
+groq
